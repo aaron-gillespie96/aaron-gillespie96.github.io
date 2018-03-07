@@ -1,9 +1,10 @@
 ---
 layout: post
-title: You're up and running!
+title: Semester 2 lets get started!
 ---
 We are back in college after our winter exams and are now beginning to develop the technical portion of our delivery. Before our exams we submitted our mid-term delivery which included our plans for our delivery in may 2018. In summary we plan on delivering
-  *A prototype website including
+
+Markup : *A prototype website including
   *Homepage
 	*Token Creator
 	*Sample startup profile
