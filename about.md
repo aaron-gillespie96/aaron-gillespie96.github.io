@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+My name is Aaron Gillespie I am a 4th year enterprise computing student and this blog will be used to document my progress.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[aaron.gillespie6@mail.dcu.ie](mailto:aaron.gillespie6@mail.dcu.ie)

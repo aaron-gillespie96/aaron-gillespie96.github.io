@@ -14,4 +14,7 @@ instead decided on using icohub.eu
 
 
 Server hosting
---------------- 
+---------------
+
+We analysed different options for our website hosting but decided the most scalable and cost effective solution would be to use Amazon 
+AWS to host our website.
