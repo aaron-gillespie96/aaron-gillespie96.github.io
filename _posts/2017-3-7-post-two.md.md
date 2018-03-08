@@ -9,7 +9,7 @@ the front end of the website so I have been focusing most of my effort on the ba
 Domain Name
 ---------------
 
-To begin the building of the back end I first purchased a domain name from www.namecheap.com. We were unable to buy icohub.com so we
+To begin the building of the back end I first purchased a domain name from [Namecheap](http://www.namecheap.com.).We were unable to buy icohub.com so we
 instead decided on using icohub.eu
 
 
