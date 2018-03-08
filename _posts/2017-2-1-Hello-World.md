@@ -6,16 +6,16 @@ We are back in college after our winter exams and are now beginning to develop t
 
 •	A prototype website including
 
-      •	Homepage
+    •	Homepage
 
 
-      •	Token Creator
+    •	Token Creator
 
 
-      •	Sample startup profile
+    •	Sample startup profile
 
 
-      •	Sample investor profile
+    •	Sample investor profile
 
 
 •	A technical document.
