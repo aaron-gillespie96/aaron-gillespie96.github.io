@@ -25,7 +25,7 @@ This virtual machine will host our website. I also installed a front end to the 
 
 I then updated the nameservers so that we could access the website from our new domain name. A test version of our website is now live on
 
-icohub.eu
+[icohub.eu](http://icohub.eu/)
 
 
 My next task is to get information stored in our database and have it presented on the front-end
